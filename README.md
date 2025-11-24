@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date : 7-5-2024
-## Register Number : 212223230111
-## Name : A.LAHARI
+# Date : 23/11/25
+## Register Number : 212224040319
+## Name : G.SINDHU PRIYA REDDY
 ## Problem Title:
 E-Waste Facility Locator
 ## Problem Description:
